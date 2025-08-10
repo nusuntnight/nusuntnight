@@ -3,19 +3,19 @@
 </p>
 
 <p align="center">
-<a href="https://discordapp.com/users/559796925562617886" >
-  <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-256.png"/>
+<a href="https://discordapp.com/users/559796925562617886" style="text-decoration: none">
+  <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-256.png">
 </a>
 
-<a href="https://open.spotify.com/user/316gom7zxrkvgx2hy4turcuengrm?si=91241db78bdf44fa" align="center"> 
+<a href="https://open.spotify.com/user/316gom7zxrkvgx2hy4turcuengrm?si=91241db78bdf44fa" style="text-decoration: none"> 
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Spotify-256.png"/>
 </a>
 
-<a href="https://steamcommunity.com/id/nusuntnightfra/" align="center">
+<a href="https://steamcommunity.com/id/nusuntnightfra/" style="text-decoration: none">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-logo-shapes/250/steam_logo-256.png"/>
 </a>
 
-<a href="https://x.com/nusuntnight" align="center">
+<a href="https://x.com/nusuntnight" style="text-decoration: none">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-256.png"/>
 </a>
 </p>
